@@ -24,3 +24,14 @@ window.getPlatform = function() {
   return "JS Platform";
 };
   
+
+///
+
+// Giả sử đây là nơi JS nhận message từ bên ngoài
+window.sendExternalMessage = function(message) {
+  if (window.sendMessageToDart) {
+    window.sendMessageToDart(message);
+  } else {
+    console.warn("Dart callback is not registered");
+  }
+};
