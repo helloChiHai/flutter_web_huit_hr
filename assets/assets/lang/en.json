@@ -478,7 +478,11 @@
         "huongdanxepca": "Enabled shifts will display the number of people assigned to that shift each day on the shift placement screen. Choose the shift display color to help you quickly identify the number of employees working that shift during the day",
         "motalichlamviec": "Weekly work schedule is the regulation of working shifts on days in a week. Based on the list of employees working according to any schedule, the system will automatically assign the corresponding shift of the day to the employee",
         "tailieudinhkem": "Attachments",
-        "chuacotailieudinhkem": "There are no attached documents"
+        "chuacotailieudinhkem": "There are no attached documents",
+        "dangcho": "Waiting",
+        "pheduyet": "approve",
+        "daduyetyeucau": "request approved",
+        "daguiyeucau": "request sent"
     },
     "err": {
         "loilayloaiphep": "Unable to retrieve leaving type",

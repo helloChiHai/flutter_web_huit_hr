@@ -475,7 +475,11 @@
         "huongdanxepca": "Các ca làm việc được bật sẽ hiển thị số người được xếp ca đó hàng ngày trên màn hình xếp ca. Chọn màu sắc hiển thị của ca để giúp bạn nhận biết nhanh hơn số nhân viên làm ca đó trong ngày",
         "motalichlamviec": "Lịch làm việc tuần là quy định các ca làm việc các thứ trong một tuần. Dựa vào danh sách nhân viên làm việc theo lịch nào hệ thống sẽ tự động gán ca làm việc trong ngày tương ứng cho nhân viên",
         "tailieudinhkem": "Tài liệu đính kèm",
-        "chuacotailieudinhkem": "Chưa có tài liệu đính kèm"
+        "chuacotailieudinhkem": "Chưa có tài liệu đính kèm",
+        "dangcho": "Đang chờ",
+        "pheduyet": "phê duyệt",
+        "daduyetyeucau": "đã duyệt yêu cầu",
+        "daguiyeucau": "đã gửi yêu cầu"
     },
     "err": {
         "loilayloaiphep": "Lỗi lấy danh sách loại nghỉ phép",
