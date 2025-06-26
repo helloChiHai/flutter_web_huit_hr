@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "7994b31b57947471ad8eda75147120e4",
+const RESOURCES = {"flutter_bootstrap.js": "1c3364ed52aa692c497caba6512e1bf8",
 "version.json": "8e657de1dbdd0ad4853b34565605a05b",
 "index.html": "bb1e3d3ab0ec54412a423f370b59dd0c",
 "/": "bb1e3d3ab0ec54412a423f370b59dd0c",
 "js/js_library.js": "b88e8a945d26d0fbdd761e2313730841",
 "js/face-api.min.js": "b9fa3888f6ded30c7d01a8f1ed153310",
 "js/face-api.js": "6939d12050455a60cdc7871d56e16d37",
-"main.dart.js": "970e5e20309fe330c6fa2e642fa71f05",
+"main.dart.js": "27542a2434bb674ff594d9814069b699",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "models/face_recognition_model-shard2": "f2091ed03625f6e164a637c2326691c1",
 "models/face_landmark_68_model-weights_manifest.json": "1d4029763003335bc6921aadeb58706a",
