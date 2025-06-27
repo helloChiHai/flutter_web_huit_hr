@@ -720,11 +720,16 @@
         "guidoica": "Gửi đổi ca",
         "ketnoiinternet": "Kết nối internet",
         "timkiem": "Tìm kiếm",
-        "tongcongngay": "tổng công",
+        "tongcongngay": "Tổng công",
         "lamthemgio": "Làm thêm giờ",
         "chuaconoidungbinhluan": "Chưa có nội dung bình luận",
         "nhapnoidungbinhluan": "Nhập nội dung bình luận",
-        "sua": "Sửa"
+        "sua": "Sửa",
+        "tonghoptrongthang": "Tổng hợp trong tháng",
+        "ngayconghuongthulao": "Ngày công hưởng thù lao, nhuận bút",
+        "songaynghiduoctruchitieu": "Số ngày nghỉ được trừ chỉ tiêu",
+        "songaynghikhongduoctruchitieu": "Số ngày nghỉ không được trừ chỉ tiêu",
+        "soconghuongbhxh": "Số công hưởng BHXH"
     },
     "scbangluong": {
         "title": "Bảng lương",

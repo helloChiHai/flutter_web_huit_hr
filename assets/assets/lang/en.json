@@ -724,7 +724,12 @@
         "lamthemgio": "Work overtime",
         "chuaconoidungbinhluan": "There are no comments yet",
         "nhapnoidungbinhluan": "Write a comment",
-        "sua": "Edit"
+        "sua": "Edit",
+        "tonghoptrongthang": "Summary of the month",
+        "ngayconghuongthulao": "Days of enjoying remuneration, royalties",
+        "songaynghiduoctruchitieu": "Number of days off deducted from targets",
+        "songaynghikhongduoctruchitieu": "Number of days off not deducted from targets",
+        "soconghuongbhxh": "Number of social insurance benefits"
     },
     "scbangluong": {
         "title": "Payroll",
